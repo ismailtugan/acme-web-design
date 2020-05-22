@@ -15,11 +15,11 @@
 1. I refer to all branchs same names of tabs 
 ---
 
-## 1. User Story: home 
+## 1. User Story: index 
 
 ### Branches
 
-1. This user story was developed on a brach called `home`
+1. This user story was developed on a brach called `index`
 1. It was merged to `master` when the feature was finished.
 
 ### HTML
